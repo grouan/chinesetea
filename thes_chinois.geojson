@@ -1,17 +1,15 @@
 {
-  "couleur_de_the": "thes_chinois",
+  "type": "FeatureCollection",
   "features": [
     
     {
-      "couleur_de_the": "the",
-      "nom": {
+      "type": "Feature",
+      "properties": {
         	"id": "1",
         	"francais": "Vert neigeux de Rizhao",
         	"anglais": "0",
         	"pinyin": "Rìzhào Xuěqīng",
-        	"chinois": "日照雪青"
-      	},
-      "specificites": {
+        	"chinois": "日照雪青",
         	"couleur_de_the": "3",
         	"categorie": "0",
         	"specification": "0",
@@ -21,39 +19,37 @@
         	"sauvage": "0",
         	"recolte": "fin avril, début mai",
         	"recolte_mois": "04",
-        	"cueillette": "bourgeon seul"
-      	},
-      "localisation": {
+        	"cueillette": "bourgeon seul",
         	"region": "4",
         	"province": "15",
         	"district": "0",
         	"ville": "Rizhao",
-        	"gps_lat-long": [35.416, 119.527]
-      	},
-      "preparation": {
-        	"technique": "0",
+			"technique": "0",
         	"temperature": "0",
         	"duree": "0",
         	"nb_infusions": "",
         	"liqueur": "vert pâle aux reflets jaunes",
         	"parfum": "frais et vif",
-        	"saveur": ""
-      	},
-      "remarques": ""
+        	"saveur": "",
+        	"remarque": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	119.527,
+          	35.416
+        	]
+      }
     },
     
-    
-    
-   {
-      "couleur_de_the": "the",
-      "nom": {
+    {
+      "type": "Feature",
+      "properties": {
         	"id": "2",
         	"francais": "Chimonante rouge de Rizhao",
         	"anglais": "0",
         	"pinyin": "Rìzhào Hóngméi chá",
-        	"chinois": "日照红梅茶"
-      	},
-      "specificites": {
+        	"chinois": "日照红梅茶",
         	"couleur_de_the": "5",
         	"categorie": "0",
         	"specification": "0",
@@ -63,37 +59,37 @@
         	"sauvage": "0",
         	"recolte": "entre le début du mois de mai et 10 septembre",
         	"recolte_mois": "05",
-        	"cueillette": "bourgeon et première feuille à peine déroulée"
-      	},
-      "localisation": {
+        	"cueillette": "bourgeon et première feuille à peine déroulée",
         	"region": "4",
         	"province": "15",
         	"district": "Lánshān 岚山",
         	"ville": "Rizhao",
-        	"gps_lat-long": [35.414, 119.552]
-      	},
-      "preparation": {
-        	"technique": "2",
+			"technique": "2",
         	"temperature": "95°C",
         	"duree": "2-5 min",
         	"nb_infusions": "jusqu'à 7",
         	"liqueur": "rouge élégant et clair",
         	"parfum": "très particulier, rappelant la fleur de chimonante (Làméi 腊梅)",
-        	"saveur": "rond et généreux, moelleux"
-      	},
-      "remarques": "premier thé rouge de toute cette zone théière, création récente"
+        	"saveur": "rond et généreux, moelleux",
+        	"remarques": "premier thé rouge de toute cette zone théière, création récente"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	119.552,
+          	35.414
+        ]
+      }
     },
     
     {
-      "couleur_de_the": "the",
-      "nom": {
+      "type": "Feature",
+      "properties": {
         	"id": "3",
         	"francais": "Vert de Fulai",
         	"anglais": "0",
         	"pinyin": "Fúláiqīng",
-        	"chinois": "浮来青"
-      	},
-      "specificites": {
+        	"chinois": "浮来青",
         	"couleur_de_the": "3",
         	"categorie": "0",
         	"specification": "0",
@@ -103,37 +99,37 @@
         	"sauvage": "0",
         	"recolte": "",
         	"recolte_mois": "00",
-        	"cueillette": "bourgeon et première feuille"
-      	},
-      "localisation": {
+        	"cueillette": "bourgeon et première feuille",
         	"region": "3",
         	"province": "14",
         	"district": "Jǔ 莒",
         	"ville": "Réserve naturelle du mont Fulai 浮来山",
-        	"gps_lat-long": [35.597, 118.734]
-      	},
-      "preparation": {
-        	"technique": "1",
+			"technique": "1",
         	"temperature": "85-90°C",
         	"duree": "0",
         	"nb_infusions": "",
         	"liqueur": "limpide",
         	"parfum": "concentré",
-        	"saveur": "moelleux et rafraïchissant"
-      	},
-      "remarques": "théiers introduits à la fin des années 60"
+        	"saveur": "moelleux et rafraïchissant",
+        	"remarques": "théiers introduits à la fin des années 60"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	118.734,
+          	35.597
+        ]
+      }
     },
     
     {
-      "couleur_de_the": "the",
-      "nom": {
+      "type": "Feature",
+      "properties": {
         	"id": "4",
         	"francais": "Thé célèbre de Laoshan",
         	"anglais": "0",
         	"pinyin": "Láoshān Míngchá",
-        	"chinois": "崂山茗茶"
-      	},
-      "specificites": {
+        	"chinois": "崂山茗茶",
         	"couleur_de_the": "3",
         	"categorie": "0",
         	"specification": "0",
@@ -143,25 +139,27 @@
         	"sauvage": "0",
         	"recolte": "",
         	"recolte_mois": "04",
-        	"cueillette": "bourgeons"
-      	},
-      "localisation": {
+        	"cueillette": "bourgeons",
         	"region": "3",
         	"province": "14",
         	"district": "Láoshān 崂山区",
         	"ville": "0",
-        	"gps_lat-long": [ 36.207, 120.582]
-      	},
-      "preparation": {
-        	"technique": "0",
+			"technique": "0",
         	"temperature": "0",
         	"duree": "0",
         	"nb_infusions": "",
         	"liqueur": "sombre",
         	"parfum": "0",
-        	"saveur": "très aromatique"
-      	},
-      "remarques": ""
+        	"saveur": "très aromatique",
+        	"remarque": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	120.582,
+          	36.207
+        ]
+      }
     }
     
     
