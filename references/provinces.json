@@ -1,0 +1,236 @@
+{
+  "type": "provinces",
+  "features": [
+    
+    
+    {
+      "properties": {
+        	"id": "1",
+        	"region": "1",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Chóngqìng",
+        	"chinois": "重庆",
+			"couleur": "#"
+      }
+    },
+    
+   {
+      "properties": {
+        	"id": "2",
+        	"region": "1",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Sìchuān",
+        	"chinois": "四川",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "3",
+        	"region": "1",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Guìzhōu",
+        	"chinois": "贵州",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "4",
+        	"region": "1",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Yúnnán",
+        	"chinois": "云南",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "5",
+        	"region": "1",
+        	"francais": "Tibet",
+        	"anglais": "Tibet",
+        	"pinyin": "Xīzàng",
+        	"chinois": "西藏",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "6",
+        	"region": "2",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Fújiàn",
+        	"chinois": "福建",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "7",
+        	"region": "2",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Guǎngdōng",
+        	"chinois": "广东",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "8",
+        	"region": "2",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Guǎngxī",
+        	"chinois": "广西",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "9",
+        	"region": "2",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Hǎinán dǎo",
+        	"chinois": "海南岛",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "10",
+        	"region": "3",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Húběi",
+        	"chinois": "湖北",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "11",
+        	"region": "3",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Húnán",
+        	"chinois": "湖南",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "12",
+        	"region": "3",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Jiāngxī",
+        	"chinois": "江西",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "13",
+        	"region": "3",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Jiāngsū",
+        	"chinois": "江苏",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "14",
+        	"region": "3",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Zhèjiāng",
+        	"chinois": "浙江",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "15",
+        	"region": "4",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Shāndōng",
+        	"chinois": "山东",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "16",
+        	"region": "4",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Gānsù",
+        	"chinois": "甘肃",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "17",
+        	"region": "4",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Shaǎnxī",
+        	"chinois": "陕西",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "18",
+        	"region": "4",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Hénán",
+        	"chinois": "河南",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "19",
+        	"region": "4",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Ānhuī",
+        	"chinois": "安徽",
+			"couleur": "#"
+      }
+    }    
+    
+    
+  ]
+}

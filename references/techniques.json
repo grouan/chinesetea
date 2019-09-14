@@ -1,0 +1,59 @@
+{
+  "type": "preparations",
+  "features": [
+    
+    
+    {
+      "properties": {
+        	"id": "1",
+        	"francais": "Verre",
+        	"anglais": "Glass",
+        	"pinyin": "Bōlí",
+        	"chinois": "玻璃"
+      }
+    },
+    
+   {
+      "properties": {
+        	"id": "2",
+        	"francais": "Théière en porcelaine",
+        	"anglais": "Porcelain teapot",
+        	"pinyin": "Cí cháhú",
+        	"chinois": "瓷茶壶"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "3",
+        	"francais": "Théière en argile",
+        	"anglais": "Clay teapot",
+        	"pinyin": "Yíxìng cháhú",
+        	"chinois": "宜兴茶壶"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "4",
+        	"francais": "Gaiwan",
+        	"anglais": "Gaiwan",
+        	"pinyin": "Gàiwǎn chá",
+        	"chinois": "盖碗茶"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "5",
+        	"francais": "Gong Fu Cha",
+        	"anglais": "Gong Fu Cha",
+        	"pinyin": "Gōngfūchá",
+        	"chinois": "功夫茶"
+      }
+    }
+    
+    
+    
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "types_de_thes",
+  "features": [
+    
+    
+    {
+      "properties": {
+        	"id": "1",
+        	"francais": "blanc",
+        	"anglais": "white",
+        	"pinyin": "báichá",
+        	"chinois": "白茶",
+			"couleur": "#f9e498"
+      }
+    },
+    
+   {
+      "properties": {
+        	"id": "2",
+        	"francais": "jaune",
+        	"anglais": "yellow",
+        	"pinyin": "huángchá",
+        	"chinois": "黄茶",
+			"couleur": "#f5df2e"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "3",
+        	"francais": "vert",
+        	"anglais": "green",
+        	"pinyin": "lǜchá",
+        	"chinois": "绿茶",
+			"couleur": "#89ba16"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "4",
+        	"francais": "bleu-vert",
+        	"anglais": "green-blue",
+        	"pinyin": "qīngchá",
+        	"chinois": "青茶",
+			"couleur": "#2facb2"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "5",
+        	"francais": "rouge",
+        	"anglais": "red",
+        	"pinyin": "hóngchá",
+        	"chinois": "红茶",
+			"couleur": "#cc0000"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "6",
+        	"francais": "noir",
+        	"anglais": "black",
+        	"pinyin": "hēichá",
+        	"chinois": "黑茶",
+			"couleur": "#562e19"
+      }
+    }
+    
+    
+    
+  ]
+}

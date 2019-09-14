@@ -1,0 +1,53 @@
+{
+  "type": "regions",
+  "features": [
+    
+    
+    {
+      "properties": {
+        	"id": "1",
+        	"francais": "Le Sud-Ouest",
+        	"anglais": "South West",
+        	"pinyin": "Xīnán cháqū",
+        	"chinois": "西南茶区",
+			"couleur": "#"
+      }
+    },
+    
+   {
+      "properties": {
+        	"id": "2",
+        	"francais": "Le Midi de la Chine",
+        	"anglais": "The Midi of China",
+        	"pinyin": "Huánán cháqū",
+        	"chinois": "华南茶区",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "3",
+        	"francais": "Au Sud du Long fleuve",
+        	"anglais": "South of the Long River",
+        	"pinyin": "Jiāngnán cháqū",
+        	"chinois": "江南茶区",
+			"couleur": "#"
+      }
+    },
+    
+    {
+      "properties": {
+        	"id": "4",
+        	"francais": "Au Nord du Long fleuve",
+        	"anglais": "North of the Long River",
+        	"pinyin": "Jiāngběi cháqū",
+        	"chinois": "江北茶区",
+			"couleur": "#"
+      }
+    }
+    
+    
+    
+  ]
+}
