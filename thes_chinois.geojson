@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -20,18 +20,21 @@
         	"recolte": "fin avril, début mai",
         	"recolte_mois": "04",
         	"cueillette": "bourgeon seul",
+        	"traitement": "fixation, roulage, dessication",
+        	"paysage": "côtes de la Mer Jaune, climat tempéré, pluie suffisantes, sols épais et fertiles",
         	"region": "4",
         	"province": "15",
         	"district": "0",
         	"ville": "Rizhao",
-			"technique": "0",
+          "preparation": "0",
         	"temperature": "0",
         	"duree": "0",
-        	"nb_infusions": "",
+        	"nb_infusions": "0",
         	"liqueur": "vert pâle aux reflets jaunes",
         	"parfum": "frais et vif",
-        	"saveur": "",
-        	"remarque": ""
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
       },
       "geometry": {
         	"type": "Point",
@@ -41,7 +44,7 @@
         	]
       }
     },
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -60,18 +63,21 @@
         	"recolte": "entre le début du mois de mai et 10 septembre",
         	"recolte_mois": "05",
         	"cueillette": "bourgeon et première feuille à peine déroulée",
+        	"traitement": "38 étapes : étalage au frais, flétrissage, roulage, séparation des feuilles collées entre elles, roulage, oxydation (...), plusieurs passage au four jusqu'à dessication totale",
+        	"paysage": "0",
         	"region": "4",
         	"province": "15",
         	"district": "Lánshān 岚山",
         	"ville": "Rizhao",
-			"technique": "2",
+          "preparation": "2",
         	"temperature": "95°C",
         	"duree": "2-5 min",
         	"nb_infusions": "jusqu'à 7",
         	"liqueur": "rouge élégant et clair",
         	"parfum": "très particulier, rappelant la fleur de chimonante (Làméi 腊梅)",
         	"saveur": "rond et généreux, moelleux",
-        	"remarques": "premier thé rouge de toute cette zone théière, création récente"
+          "meilleurs": "0",
+        	"remarque": "premier thé rouge de toute cette zone théière, création récente"
       },
       "geometry": {
         	"type": "Point",
@@ -81,7 +87,7 @@
         ]
       }
     },
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -97,21 +103,24 @@
         	"oxydation": "0",
         	"feuille": "plate ou torsadée",
         	"sauvage": "0",
-        	"recolte": "",
-        	"recolte_mois": "00",
+        	"recolte": "0",
+        	"recolte_mois": "0",
         	"cueillette": "bourgeon et première feuille",
-        	"region": "3",
-        	"province": "14",
+        	"traitement": "fixation, roulage, polissage, séchage",
+        	"paysage": "réserve naturelle du mont Fulai 浮来山",
+        	"region": "4",
+        	"province": "15",
         	"district": "Jǔ 莒",
-        	"ville": "Réserve naturelle du mont Fulai 浮来山",
-			"technique": "1",
+        	"ville": "0",
+          "preparation": "1",
         	"temperature": "85-90°C",
         	"duree": "0",
-        	"nb_infusions": "",
+        	"nb_infusions": "0",
         	"liqueur": "limpide",
         	"parfum": "concentré",
         	"saveur": "moelleux et rafraïchissant",
-        	"remarques": "théiers introduits à la fin des années 60"
+          "meilleurs": "0",
+        	"remarque": "théiers introduits à la fin des années 60"
       },
       "geometry": {
         	"type": "Point",
@@ -121,7 +130,7 @@
         ]
       }
     },
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -137,21 +146,24 @@
         	"oxydation": "0",
         	"feuille": "0",
         	"sauvage": "0",
-        	"recolte": "",
+        	"recolte": "0",
         	"recolte_mois": "04",
         	"cueillette": "bourgeons",
-        	"region": "3",
-        	"province": "14",
+        	"traitement": "0",
+        	"paysage": "pentes enveloppées de nuages du mont Laoshan 崂山, +1100m d'altitude, nombreuses sources d'eau claire",
+        	"region": "4",
+        	"province": "15",
         	"district": "Láoshān 崂山区",
         	"ville": "0",
-			"technique": "0",
+          "preparation": "0",
         	"temperature": "0",
         	"duree": "0",
-        	"nb_infusions": "",
+        	"nb_infusions": "0",
         	"liqueur": "sombre",
         	"parfum": "0",
         	"saveur": "très aromatique",
-        	"remarque": ""
+        	"meilleurs": "0",
+          "remarque": "0"
       },
       "geometry": {
         	"type": "Point",
@@ -160,9 +172,395 @@
           	36.207
         ]
       }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "5",
+        	"francais": "Puits du dragon à la bouche émeraude",
+        	"anglais": "0",
+        	"pinyin": "Bìkǒu Lóngjǐng",
+        	"chinois": "碧口龙井",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "feuille plate et régulière, d'un vert imitant le jade",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "jeunes pointes, un bourgeon, une feuille",
+        	"traitement": "façonnage à la main, fabriqué selon la méthode utilisée pour le Longjing (célèbre Puits du dragon)",
+        	"paysage": "jusqu'à 2000m d'altitude, climat rude et aride, températures extrêmes entre -14°C et 30°C",
+        	"region": "4",
+        	"province": "16",
+        	"district": "0",
+        	"ville": "Bikou / Lanzhou ?",
+          "preparation": "1",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "entre le vert et le jaune",
+        	"parfum": "très frais, à la fois franc et intense",
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	103.807,
+          	36.073
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "6",
+        	"francais": "Bourgeon de neige du pic azur",
+        	"anglais": "0",
+        	"pinyin": "Bìfēng Xuěyá",
+        	"chinois": "碧峰雪芽",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "en forme de brindille d'un vert profond",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "un bourgeon et une (ou deux) feuille(s)",
+        	"traitement": "fixation, roulage róuniǎn 揉捻, dessication",
+        	"paysage": "couloir désertique, reliefs tabulaires jusqu'à 2000m d'altitude, climat rude et aride, températures extrêmes entre -14°C et 30°C",
+        	"region": "4",
+        	"province": "16",
+        	"district": "0",
+        	"ville": "Bikou / Lanzhou ?",
+          "preparation": "1",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert clair",
+        	"parfum": "0",
+        	"saveur": "très aromatique, thé généreux et moelleux",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	103.117,
+          	35.916
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "7",
+        	"francais": "Navette argentée de la rivière Han",
+        	"anglais": "0",
+        	"pinyin": "Hànshuǐ Yínsuō",
+        	"chinois": "汉水银梭",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "vert profond",
+        	"sauvage": "0",
+        	"recolte": "printemps",
+        	"recolte_mois": "04",
+        	"cueillette": "jeunes bourgeons, abonamment couverts d'un fin duvet",
+        	"traitement": "fixation, façonnage en 'vermicelle' (tiáo 条), lustrage, dessication à l'air soufflé",
+        	"paysage": "rivière Hàn 汉江, le long du versant Nord de la chaîne des Daba (+3000m d'altitude)",
+        	"region": "4",
+        	"province": "17",
+        	"district": "Nánzhèng 南郑县",
+        	"ville": "0",
+          "preparation": "4",
+        	"temperature": "85-90°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert pâle, teintée de reflets jaunes",
+        	"parfum": "0",
+        	"saveur": "rafraïchissant, vif et soyeux, notes végétales",
+        	"meilleurs": "0",
+          "remarque": "thé créé dans les années 1980"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	106.935,
+          	32.993
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "8",
+        	"francais": "Duvet céleste de Wuzi",
+        	"anglais": "0",
+        	"pinyin": "Wǔzi Xiānháo",
+        	"chinois": "午子仙毫",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "forme 'en orchidée'",
+        	"sauvage": "0",
+        	"recolte": "entre le 5 avril (Qingming, 'lune de la pure clarté') et le 5 mai (Guyu, 'lune de la pluie des céréales')",
+        	"recolte_mois": "04",
+        	"cueillette": "jeunes ramilles : un bourgeon et une (ou deux) feuille(s)",
+        	"traitement": "étalage à l'air pendant environ 35h, fixation à haute température, laminage, dessication",
+        	"paysage": "pentes des massifs de Wuzi de la chaîne des Daba, climat humide",
+        	"region": "4",
+        	"province": "17",
+        	"district": "Xīxiāng 西乡区",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert émeraude",
+        	"parfum": "floral, presque céleste",
+        	"saveur": "ronde et douce, belle longueur en bouche",
+        	"meilleurs": "0",
+          "remarque": "thé créé en 1985"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	120.582,
+          	36.207
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "9",
+        	"francais": "Duvet des Brumes de Qinba",
+        	"anglais": "0",
+        	"pinyin": "Qínbā Wùháo",
+        	"chinois": "秦巴雾毫",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "bâtonnets plats, rappelle les feuilles du Longjing",
+        	"sauvage": "0",
+        	"recolte": "entre le 5 avril (Qingming, 'lune de la pure clarté') et le 5 mai (Guyu, 'lune de la pluie des céréales')",
+        	"recolte_mois": "04",
+        	"cueillette": "0",
+        	"traitement": "à la main, au wok : fixation, roulage, séchage",
+        	"paysage": "jardins en terrasses, pentes du mont Daba, entre 600 et 1200m d'altitude, le 'royaume des nuages'",
+        	"region": "4",
+        	"province": "17",
+        	"district": "Zhènbā 镇巴县",
+        	"ville": "0",
+          "preparation": "4",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "vive et herbacée, note de châtaigne et de noisette",
+        	"meilleurs": "0",
+          "remarque": "Production de thé remonterait à la dynastie des Han (2e siècle), création de 1984"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	120.582,
+          	36.207
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "10",
+        	"francais": "Pointes duveteuses du soleil pourpre",
+        	"anglais": "0",
+        	"pinyin": "Zǐyáng Máojiān",
+        	"chinois": "紫阳毛尖",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "vert jade profond, beaucoup de pointes argentées",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "04",
+        	"cueillette": "jeunes feuilles et bourgeon",
+        	"traitement": "fixation à feu vif, roulage en longues pointes, dessication",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "17",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert brillant, douce et ronde",
+        	"parfum": "végétal persistant",
+        	"saveur": "très rafraïchissant",
+        	"meilleurs": "0",
+          "remarque": "thé issu d'une variété locale de Camellia : le Zǐyángchá 紫阳茶 à feuilles larges"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	108.517,
+          	32.510
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "11",
+        	"francais": "Pic d'argent de Nüwa",
+        	"anglais": "0",
+        	"pinyin": "Nǚwā Yínfēng",
+        	"chinois": "女娲银峰",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "plates, mi-grillées mi-étuvées, concentrées en sève, très uniformes, en piques bien droites, d'un vert lumineux",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "jeunes pousses à peine développées",
+        	"traitement": "5 phases, de la fixation à la dessication finale",
+        	"paysage": "pentes des monts des Huit Immortels, jardins montagneux, sols très minéralisés, climat relativement doux, écarts de températures importants entre jour et nuit",
+        	"region": "4",
+        	"province": "17",
+        	"district": "Pínglì 平利县",
+        	"ville": "0",
+          "preparation": "4",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "délicate, jaune pâle",
+        	"parfum": "très frais",
+        	"saveur": "extrêmement tendre, vif et herbacé, belle longueur en bouche, profil nettement umami",
+        	"meilleurs": "0",
+          "remarque": "cité dans le 'Classique du thé' de Lu Yu, thé remarquablement riche en sélénium"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	109.358,
+          	32.388
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "12",
+        	"francais": "Pointes duveteuses de Xinyang",
+        	"anglais": "0",
+        	"pinyin": "Xìnyáng Máojiān",
+        	"chinois": "信阳毛尖",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "belle feuille travaillée en pointe, dense, d'un vert vif à profond, quelques bourgeons duveteux argentés",
+        	"sauvage": "0",
+        	"recolte": "du printemps à l'automne",
+        	"recolte_mois": "04",
+        	"cueillette": "1 bourgeon et 1-2 jeunes feuilles",
+        	"traitement": "0",
+        	"paysage": "zone montagneuse, au cœur des Dabieshan 大别山 (500-800m alt.)",
+        	"region": "4",
+        	"province": "18",
+        	"district": "0",
+        	"ville": "Xìnyáng 信阳",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "verte avec des reflets citron",
+        	"parfum": "0",
+        	"saveur": "thé harmonieux, arômes printaniers",
+        	"meilleurs": "1",
+          "remarque": "Son histoire remonterait à +1000 ans"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	114,0676596,
+          	32,1273720
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "0",
+        	"francais": "Duvet d'argent du pic Très Blanc",
+        	"anglais": "0",
+        	"pinyin": "Tàibái Yín hào",
+        	"chinois": "太白银浩",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "très velues, en forme d'orchidée, vert profond",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "1 bourgeon et 1 petite feuille de -4cm",
+        	"traitement": "6 étapes : fixation au wok, roulage, polissage, séchage, refroidissement, séchage au feu",
+        	"paysage": "réserve naturelle des monts Tongbai",
+        	"region": "4",
+        	"province": "18",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "1",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert transparent, nnuances bleutées",
+        	"parfum": "frais, parfum franc et moelleux",
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	113.302577,
+          	32.378936
+        ]
+      }
     }
-    
-    
-    
+
+
   ]
 }
