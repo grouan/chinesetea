@@ -33,7 +33,8 @@
         	"liqueur": "vert pâle aux reflets jaunes",
         	"parfum": "frais et vif",
         	"saveur": "0",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -76,6 +77,7 @@
         	"liqueur": "rouge élégant et clair",
         	"parfum": "très particulier, rappelant la fleur de chimonante (Làméi 腊梅)",
         	"saveur": "rond et généreux, moelleux",
+          "classique_du_the": "0",
           "meilleurs": "0",
         	"remarque": "premier thé rouge de toute cette zone théière, création récente"
       },
@@ -119,6 +121,7 @@
         	"liqueur": "limpide",
         	"parfum": "concentré",
         	"saveur": "moelleux et rafraïchissant",
+          "classique_du_the": "0",
           "meilleurs": "0",
         	"remarque": "théiers introduits à la fin des années 60"
       },
@@ -162,7 +165,8 @@
         	"liqueur": "sombre",
         	"parfum": "0",
         	"saveur": "très aromatique",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -205,7 +209,8 @@
         	"liqueur": "entre le vert et le jaune",
         	"parfum": "très frais, à la fois franc et intense",
         	"saveur": "0",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -248,7 +253,8 @@
         	"liqueur": "vert clair",
         	"parfum": "0",
         	"saveur": "très aromatique, thé généreux et moelleux",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -291,7 +297,8 @@
         	"liqueur": "vert pâle, teintée de reflets jaunes",
         	"parfum": "0",
         	"saveur": "rafraïchissant, vif et soyeux, notes végétales",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "thé créé dans les années 1980"
       },
       "geometry": {
@@ -334,7 +341,8 @@
         	"liqueur": "vert émeraude",
         	"parfum": "floral, presque céleste",
         	"saveur": "ronde et douce, belle longueur en bouche",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "thé créé en 1985"
       },
       "geometry": {
@@ -377,7 +385,8 @@
         	"liqueur": "0",
         	"parfum": "0",
         	"saveur": "vive et herbacée, note de châtaigne et de noisette",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "Production de thé remonterait à la dynastie des Han (2e siècle), création de 1984"
       },
       "geometry": {
@@ -420,7 +429,8 @@
         	"liqueur": "vert brillant, douce et ronde",
         	"parfum": "végétal persistant",
         	"saveur": "très rafraïchissant",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "thé issu d'une variété locale de Camellia : le Zǐyángchá 紫阳茶 à feuilles larges"
       },
       "geometry": {
@@ -463,8 +473,9 @@
         	"liqueur": "délicate, jaune pâle",
         	"parfum": "très frais",
         	"saveur": "extrêmement tendre, vif et herbacé, belle longueur en bouche, profil nettement umami",
-        	"meilleurs": "0",
-          "remarque": "cité dans le 'Classique du thé' de Lu Yu, thé remarquablement riche en sélénium"
+        	"classique_du_the": "1",
+          "meilleurs": "0",
+          "remarque": "thé remarquablement riche en sélénium"
       },
       "geometry": {
         	"type": "Point",
@@ -506,7 +517,8 @@
         	"liqueur": "verte avec des reflets citron",
         	"parfum": "0",
         	"saveur": "thé harmonieux, arômes printaniers",
-        	"meilleurs": "1",
+        	"classique_du_the": "0",
+          "meilleurs": "1",
           "remarque": "Son histoire remonterait à +1000 ans"
       },
       "geometry": {
@@ -549,7 +561,8 @@
         	"liqueur": "vert transparent, nnuances bleutées",
         	"parfum": "frais, parfum franc et moelleux",
         	"saveur": "0",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -577,7 +590,7 @@
         	"feuille": "plates, recouvertes d'un épais duvet",
         	"sauvage": "0",
         	"recolte": "0",
-        	"recolte_mois": "3",
+        	"recolte_mois": "03",
         	"cueillette": "extrémités des jeunes ramilles, bourgeons très velus",
         	"traitement": "0",
         	"paysage": "monts Sai 塞 ~400m alt.",
@@ -592,7 +605,8 @@
         	"liqueur": "vert transparent",
         	"parfum": "frais, très végétal",
         	"saveur": "0",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -635,7 +649,8 @@
         	"liqueur": "cristalline, entre le vert et le jaune",
         	"parfum": "orchidée",
         	"saveur": "finement acide à l'attaque, belle longueur",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
@@ -643,6 +658,666 @@
         	"coordinates": [
           	115.694104,
           	32.182804
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "16",
+        	"francais": "Graines de melon de Lu'an",
+        	"anglais": "0",
+        	"pinyin": "Lù'ān Guāpiàn",
+        	"chinois": "六安瓜片",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "en graines de melon (guāzǐpiàn) 瓜子片",
+        	"sauvage": "0",
+        	"recolte": "commence à Gǔyǔ 谷雨 'la pluie des céréales' (fin avril début mai)",
+        	"recolte_mois": "04",
+        	"cueillette": "seulement les 2e-3e feuilles, aucun bourgeon, aucune tige",
+        	"traitement": "5 phases : passage au wok, façonnage au wok, séchage, cuisson douce, chauffage pour applatir la feuille",
+        	"paysage": "Dabieshan, montagne Qiyun",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "Lù'ān 六安",
+          "preparation": "2",
+        	"temperature": "85-90°C",
+        	"duree": "10 secondes au 1/3, puis remplir 3min",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "grillé",
+        	"saveur": "soyeux, très rafraîchissant, arômes puissants, quelques notes florales",
+        	"classique_du_the": "1",
+          "meilleurs": "1",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	116.380223,
+          	31.701727
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "17",
+        	"francais": "Épée duveteuse du Pilier du ciel",
+        	"anglais": "0",
+        	"pinyin": "Tiānzhù Jiànháo",
+        	"chinois": "天柱剑毫",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "petites feuilles plates et droites, couleur du jade",
+        	"sauvage": "0",
+        	"recolte": "du printemps de la pure clarté (5 avril) à la fin avril",
+        	"recolte_mois": "04",
+        	"cueillette": "1 bourgeon et 1 feuille",
+        	"traitement": "8 étapes : flétrissage, fixation, multiples façonnages, roulage et polissage",
+        	"paysage": "parc national du Pilier du ciel +500m alt.",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "85°C",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "cristalline",
+        	"parfum": "délicat, d'herbe fraîche",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "jardins réhabilités dans les années 1980, teneur élevée en polyphénols antioxydants et en acides aminés (théanine = concentration, effet relaxant)"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	116.378858,
+          	30.593117
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "18",
+        	"francais": "Bourgeons jaunes de Huoshan",
+        	"anglais": "0",
+        	"pinyin": "Huòshān Huángyá",
+        	"chinois": "霍山黄芽",
+        	"couleur_de_the": "2",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "vert olive, forme de petites langues de moineaux tendres et bien roulées, recouvertes d'un abondant duvet",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "tendre, 1 bourgeon et 2 feuilles",
+        	"traitement": "fixation au wok, séchages multiples alternant cuisson à l'étouffée et refroidissement",
+        	"paysage": "forêts sempervirentes préservées",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "85-90°C",
+        	"duree": "-1min",
+        	"nb_infusions": "0",
+        	"liqueur": "vert acidulé, texture crémeuse",
+        	"parfum": "0",
+        	"saveur": "légèrement sucrée, notes de châtaigne mûre, arrière-goût d'épinard et de maïs",
+        	"classique_du_the": "0",
+          "meilleurs": "1",
+          "remarque": "cru exceptionnel"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	116.260716,
+          	31.334330
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "19",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Huangshan Maofeng",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "20",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Qimen Hongcha",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "21",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Laozhu Da Fang",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "22",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Dinggu Dafang",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "23",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Taiping Houkui",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "24",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Xiuning Songluo",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "25",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Yongxi Huoqing",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "26",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Jingting Lüxue",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "27",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Gaofeng Yunwu",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "28",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Ruicaokui",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "29",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Yashan cha",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "30",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "Jiuhua Maofeng",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "4",
+        	"province": "19",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	117.043386,
+          	32.375780
         ]
       }
     },
@@ -678,14 +1353,15 @@
         	"liqueur": "0",
         	"parfum": "0",
         	"saveur": "0",
-        	"meilleurs": "0",
+        	"classique_du_the": "0",
+          "meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	999.999999,
-          	11.111111
+          	120.98,
+          	23.70
         ]
       }
     }
