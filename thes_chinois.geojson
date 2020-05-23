@@ -559,6 +559,135 @@
           	32.378936
         ]
       }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "14",
+        	"francais": "Lotus de jade de Saishan",
+        	"anglais": "0",
+        	"pinyin": "Sāishān Yùlián",
+        	"chinois": "塞山玉莲",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "plates, recouvertes d'un épais duvet",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "3",
+        	"cueillette": "extrémités des jeunes ramilles, bourgeons très velus",
+        	"traitement": "0",
+        	"paysage": "monts Sai 塞 ~400m alt.",
+        	"region": "4",
+        	"province": "18",
+        	"district": "Guǎngshān 广山",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "vert transparent",
+        	"parfum": "frais, très végétal",
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	114.10307,
+          	22.34637
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "15",
+        	"francais": "Neige verte qui pointe vers le ciel",
+        	"anglais": "0",
+        	"pinyin": "Yǎngtiān Xuělǜ",
+        	"chinois": "仰天雪绿",
+        	"couleur_de_the": "3",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "0",
+        	"province": "0",
+        	"district": "Gushi 固始",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	999.999999,
+          	11.111111
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "999",
+        	"francais": "0",
+        	"anglais": "0",
+        	"pinyin": "0",
+        	"chinois": "0",
+        	"couleur_de_the": "0",
+        	"categorie": "0",
+        	"specification": "0",
+        	"fermentation": "0",
+        	"oxydation": "0",
+        	"feuille": "0",
+        	"sauvage": "0",
+        	"recolte": "0",
+        	"recolte_mois": "0",
+        	"cueillette": "0",
+        	"traitement": "0",
+        	"paysage": "0",
+        	"region": "0",
+        	"province": "0",
+        	"district": "0",
+        	"ville": "0",
+          "preparation": "0",
+        	"temperature": "0",
+        	"duree": "0",
+        	"nb_infusions": "0",
+        	"liqueur": "0",
+        	"parfum": "0",
+        	"saveur": "0",
+        	"meilleurs": "0",
+          "remarque": "0"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	999.999999,
+          	11.111111
+        ]
+      }
     }
 
 
