@@ -617,32 +617,32 @@
         	"specification": "0",
         	"fermentation": "0",
         	"oxydation": "0",
-        	"feuille": "0",
+        	"feuille": "fines et longues aiguilles plates",
         	"sauvage": "0",
         	"recolte": "0",
         	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
-        	"region": "0",
-        	"province": "0",
+        	"cueillette": "3 qualités : bourgeons / 1 bourgeon + 2 feuilles (ramille jeune / 3 ramilles matures)",
+        	"traitement": "fixation, façonnage, séchage",
+        	"paysage": "chaîne des Dabie, souvent recouvert de neige au printemps",
+        	"region": "4",
+        	"province": "18",
         	"district": "Gushi 固始",
         	"ville": "0",
           "preparation": "0",
         	"temperature": "0",
         	"duree": "0",
         	"nb_infusions": "0",
-        	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
+        	"liqueur": "cristalline, entre le vert et le jaune",
+        	"parfum": "orchidée",
+        	"saveur": "finement acide à l'attaque, belle longueur",
         	"meilleurs": "0",
           "remarque": "0"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	999.999999,
-          	11.111111
+          	115.694104,
+          	32.182804
         ]
       }
     },
