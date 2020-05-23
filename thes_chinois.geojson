@@ -782,7 +782,7 @@
         	"parfum": "0",
         	"saveur": "légèrement sucrée, notes de châtaigne mûre, arrière-goût d'épinard et de maïs",
         	"classique_du_the": "0",
-          "meilleurs": "1",
+          "meilleurs": "0",
           "remarque": "cru exceptionnel"
       },
       "geometry": {
@@ -798,42 +798,42 @@
       "type": "Feature",
       "properties": {
         	"id": "19",
-        	"francais": "0",
+        	"francais": "Pic duveteux des montagnes Jaunes",
         	"anglais": "0",
-        	"pinyin": "Huangshan Maofeng",
-        	"chinois": "0",
-        	"couleur_de_the": "0",
+        	"pinyin": "Huángshān Máofēng",
+        	"chinois": "黄山毛峰",
+        	"couleur_de_the": "3",
         	"categorie": "0",
         	"specification": "0",
         	"fermentation": "0",
         	"oxydation": "0",
-        	"feuille": "0",
+        	"feuille": "vert émeraude",
         	"sauvage": "0",
-        	"recolte": "0",
-        	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
+        	"recolte": "fin mars à mi-mai",
+        	"recolte_mois": "03",
+        	"cueillette": "1 bourgeon et 1 jeune feuille, sur une ramille très tendre",
+        	"traitement": "3 phases : cuisson pour 'tuer le vert', roulage, dessication",
+        	"paysage": "parc national des Huángshān, 400-900m alt.",
         	"region": "4",
         	"province": "19",
         	"district": "0",
         	"ville": "0",
           "preparation": "0",
-        	"temperature": "0",
-        	"duree": "0",
+        	"temperature": "80-85°C",
+        	"duree": "+ la température est basse + l'infusion sera longue",
         	"nb_infusions": "0",
-        	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
+        	"liqueur": "+ l'infusion est longue + la liqueur sera forte, jaune abricot",
+        	"parfum": "doux",
+        	"saveur": "notes fleuries de magnolia ou d'orchidée",
         	"classique_du_the": "0",
-          "meilleurs": "0",
-          "remarque": "0"
+          "meilleurs": "1",
+          "remarque": "célébrité nationale depuis la dynastie des Ming (1644-1911)"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	117.043386,
-          	32.375780
+          	118.337391,
+          	29.617549
         ]
       }
     },
@@ -842,42 +842,42 @@
       "type": "Feature",
       "properties": {
         	"id": "20",
-        	"francais": "0",
+        	"francais": "Rouge de Qimen",
         	"anglais": "0",
-        	"pinyin": "Qimen Hongcha",
-        	"chinois": "0",
-        	"couleur_de_the": "0",
+        	"pinyin": "Qímén Hóngchá",
+        	"chinois": "祁门红茶",
+        	"couleur_de_the": "5",
         	"categorie": "0",
         	"specification": "0",
         	"fermentation": "0",
         	"oxydation": "0",
         	"feuille": "0",
         	"sauvage": "0",
-        	"recolte": "0",
-        	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
+        	"recolte": "entre avril et septembre",
+        	"recolte_mois": "04",
+        	"cueillette": "20% de jeunes sommets (1 bourgeon + 1 feuille) pour les meilleurs grades, et au moins 50% d'1 bourgeon + 2 feuilles",
+        	"traitement": "5 étapes : flétrissage, roulage, oxydation, dessication et polissage / à la main ou à la machine en fonction du grade (20aine de qualités différentes : grand cru = Qímén Háoyá 祁门毫芽)",
+        	"paysage": "montagnes jaunes",
         	"region": "4",
         	"province": "19",
         	"district": "0",
-        	"ville": "0",
+        	"ville": "Qimen",
           "preparation": "0",
         	"temperature": "0",
         	"duree": "0",
         	"nb_infusions": "0",
         	"liqueur": "0",
         	"parfum": "0",
-        	"saveur": "0",
+        	"saveur": "goût malté, fruité et fleuri, notes de miel",
         	"classique_du_the": "0",
-          "meilleurs": "0",
-          "remarque": "0"
+          "meilleurs": "1",
+          "remarque": "fabriqué pour la 1ère fois en 1975 (Keemun), les meilleurs Qimen ('Colimaçons du Parfum rouge') sont très prisés des britanniques pour leur 'breakfast tea'"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	117.043386,
-          	32.375780
+          	117.693751,
+          	29.827828
         ]
       }
     },
@@ -886,16 +886,16 @@
       "type": "Feature",
       "properties": {
         	"id": "21",
-        	"francais": "0",
+        	"francais": "Thé Da Fang du pic du Vieux bambou",
         	"anglais": "0",
-        	"pinyin": "Laozhu Da Fang",
-        	"chinois": "0",
+        	"pinyin": "Lǎozhú Dàfāng",
+        	"chinois": "老竹大方",
         	"couleur_de_the": "0",
         	"categorie": "0",
         	"specification": "0",
         	"fermentation": "0",
         	"oxydation": "0",
-        	"feuille": "0",
+        	"feuille": "plates, comme le Lóngjǐng 龙井, mais plus doré",
         	"sauvage": "0",
         	"recolte": "0",
         	"recolte_mois": "0",
@@ -907,21 +907,21 @@
         	"district": "0",
         	"ville": "0",
           "preparation": "0",
-        	"temperature": "0",
-        	"duree": "0",
+        	"temperature": "75-80°C",
+        	"duree": "3-4min (4g/150ml)",
         	"nb_infusions": "0",
         	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
+        	"parfum": "châtaigne grillée, noix",
+        	"saveur": "puissant, belle longueur en bouche, douce et suave",
         	"classique_du_the": "0",
           "meilleurs": "0",
-          "remarque": "0"
+          "remarque": "créé par le moine bouddhiste Da Fang, à l'époque des Song; il est parfois appelé 'Thé Da Fang de la vallée du Pic' Dǐnggǔ Dàfāng 顶谷大方 ou 'puits du dragon de Huangshan' Huángshān Lóngjǐng 黄山龙井"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	117.043386,
-          	32.375780
+          	118.447597,
+          	29.792000
         ]
       }
     },
@@ -930,42 +930,42 @@
       "type": "Feature",
       "properties": {
         	"id": "22",
-        	"francais": "0",
+        	"francais": "Roi des singes de la Grande paix",
         	"anglais": "0",
-        	"pinyin": "Dinggu Dafang",
-        	"chinois": "0",
-        	"couleur_de_the": "0",
+        	"pinyin": "Tàipíng Hóukuí",
+        	"chinois": "太平猴魁",
+        	"couleur_de_the": "3",
         	"categorie": "0",
         	"specification": "0",
         	"fermentation": "0",
         	"oxydation": "0",
-        	"feuille": "0",
+        	"feuille": "extraordinairement longues (8-15cm), lourdes et plates, vert clair",
         	"sauvage": "0",
-        	"recolte": "0",
-        	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
+        	"recolte": "1 fois l'an, au printemps",
+        	"recolte_mois": "04",
+        	"cueillette": "le matin, 1 bourgeon et 2-4 feuilles",
+        	"traitement": "entièrement réalisé à la main : tri (les bourgeons trop petits serviront à fabriquer le Kuípiàn 魁片), brassage au wok, fixation, séchage, défroissage, refroidissement, pressage, dessication",
+        	"paysage": "il bruine presque toute l'année",
         	"region": "4",
         	"province": "19",
         	"district": "0",
-        	"ville": "0",
-          "preparation": "0",
-        	"temperature": "0",
+        	"ville": "Hou",
+          "preparation": "1",
+        	"temperature": "80-85°C",
         	"duree": "0",
         	"nb_infusions": "0",
-        	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
+        	"liqueur": "très grande richesse aromatique, minérale, végétale",
+        	"parfum": "végétal",
+        	"saveur": "légumes cuits, artichaut, notes florales d'orchidée",
         	"classique_du_the": "0",
-          "meilleurs": "0",
-          "remarque": "0"
+          "meilleurs": "1",
+          "remarque": "issu d'une variété de Camellia Sinensis Shì Dàyè 柿大叶 aux feuilles singulièrement grandes"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	117.043386,
-          	32.375780
+          	118.204446,
+          	29.587021
         ]
       }
     },
@@ -974,50 +974,6 @@
       "type": "Feature",
       "properties": {
         	"id": "23",
-        	"francais": "0",
-        	"anglais": "0",
-        	"pinyin": "Taiping Houkui",
-        	"chinois": "0",
-        	"couleur_de_the": "0",
-        	"categorie": "0",
-        	"specification": "0",
-        	"fermentation": "0",
-        	"oxydation": "0",
-        	"feuille": "0",
-        	"sauvage": "0",
-        	"recolte": "0",
-        	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
-        	"region": "4",
-        	"province": "19",
-        	"district": "0",
-        	"ville": "0",
-          "preparation": "0",
-        	"temperature": "0",
-        	"duree": "0",
-        	"nb_infusions": "0",
-        	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
-        	"classique_du_the": "0",
-          "meilleurs": "0",
-          "remarque": "0"
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          	117.043386,
-          	32.375780
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        	"id": "24",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Xiuning Songluo",
@@ -1061,7 +1017,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "25",
+        	"id": "24",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Yongxi Huoqing",
@@ -1105,7 +1061,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "26",
+        	"id": "25",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Jingting Lüxue",
@@ -1149,7 +1105,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "27",
+        	"id": "26",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Gaofeng Yunwu",
@@ -1193,7 +1149,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "28",
+        	"id": "27",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Ruicaokui",
@@ -1237,51 +1193,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "29",
-        	"francais": "0",
-        	"anglais": "0",
-        	"pinyin": "Yashan cha",
-        	"chinois": "0",
-        	"couleur_de_the": "0",
-        	"categorie": "0",
-        	"specification": "0",
-        	"fermentation": "0",
-        	"oxydation": "0",
-        	"feuille": "0",
-        	"sauvage": "0",
-        	"recolte": "0",
-        	"recolte_mois": "0",
-        	"cueillette": "0",
-        	"traitement": "0",
-        	"paysage": "0",
-        	"region": "4",
-        	"province": "19",
-        	"district": "0",
-        	"ville": "0",
-          "preparation": "0",
-        	"temperature": "0",
-        	"duree": "0",
-        	"nb_infusions": "0",
-        	"liqueur": "0",
-        	"parfum": "0",
-        	"saveur": "0",
-        	"classique_du_the": "0",
-          "meilleurs": "0",
-          "remarque": "0"
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          	117.043386,
-          	32.375780
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        	"id": "30",
+        	"id": "28",
         	"francais": "0",
         	"anglais": "0",
         	"pinyin": "Jiuhua Maofeng",
