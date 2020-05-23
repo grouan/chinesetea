@@ -512,8 +512,8 @@
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	114,0676596,
-          	32,1273720
+          	114.0676596,
+          	32.1273720
         ]
       }
     },
@@ -521,7 +521,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "0",
+        	"id": "13",
         	"francais": "Duvet d'argent du pic Très Blanc",
         	"anglais": "0",
         	"pinyin": "Tàibái Yín hào",
