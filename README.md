@@ -1,9 +1,9 @@
-#  🇨🇳 🌱 Cháshù Dìtú 茶树地图
+#  🇨🇳 🌱 CHINESETEA / Zhōngguó Chá 中国茶
 ## Cartographie des thés de Chine / Chinese Tea Map
 
-🍵 Cháshù Dìtú est une cartographie libre et open source basée sur le travail de Katrin Rougeventre, spécifiquement la partie II de son livre, intitulée "Terroirs et grands crus de Chine". Elle regroupe une liste de référence, non exhaustive, des thés (Camellia Sinensis 茶树 Cháshù) de Chine mentionés par l'auteure, accessible sous forme de carte, mais aussi de fiches individuelles. Un module de recherche directe permet de trouver une référence spécifique. 
+🍵 CHINESETEA est une cartographie libre et open source basée sur le travail de Katrin Rougeventre, spécifiquement la partie II de son livre, intitulée "Terroirs et grands crus de Chine". Elle regroupe une liste de référence, non exhaustive, des thés (Camellia Sinensis 茶树 Cháshù) de Chine mentionés par l'auteure, accessible sous forme de carte, mais aussi de fiches individuelles. Un module de recherche directe permet de trouver une référence spécifique. 
 
-🍵 Cháshù Dìtú is a free and open source map based on Katrin Rougeventre's work, specifically the second part of her book entitled "Terroirs and Grands Crus of China". It brings together a non-exhaustive reference list of teas (Camellia Sinensis 茶树 Cháshù) from China mentioned by the author, accessible through a map or individual tea description files. A direct search module allows you to find a specific reference. 
+🍵 CHINESETEA is a free and open source map based on Katrin Rougeventre's work, specifically the second part of her book entitled "Terroirs and Grands Crus of China". It brings together a non-exhaustive reference list of teas (Camellia Sinensis 茶树 Cháshù) from China mentioned by the author, accessible through a map or individual tea description files. A direct search module allows you to find a specific reference. 
 
 ---
 
