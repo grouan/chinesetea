@@ -21,4 +21,4 @@
 ## Mentions légales / Legal Notice
 🔁 Les carte, liste, fiches et données sont placés sous licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 2.0 France (CC BY-SA 2.0 FR)](https://creativecommons.org/licenses/by-sa/2.0/fr/) / Map, List and Datas are [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/) licensed
 
-❎ Contents and Tea References are properties of Katrin Rougeventre and Michel de Maule Edition
+❎ Les descriptions et références de thés sont la propirété de Katrin Rougeventre et de Michel de Maule Edition / Contents and Tea References are properties of Katrin Rougeventre and Michel de Maule Edition
