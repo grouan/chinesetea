@@ -10,7 +10,7 @@
         	"anglais": "white",
         	"pinyin": "báichá",
         	"chinois": "白茶",
-			"couleur": "#f9e498"
+		"couleur": "#f9e498"
       }
     },
     
@@ -21,7 +21,7 @@
         	"anglais": "yellow",
         	"pinyin": "huángchá",
         	"chinois": "黄茶",
-			"couleur": "#f5df2e"
+		"couleur": "#f5df2e"
       }
     },
     
@@ -32,7 +32,7 @@
         	"anglais": "green",
         	"pinyin": "lǜchá",
         	"chinois": "绿茶",
-			"couleur": "#89ba16"
+		"couleur": "#89ba16"
       }
     },
     
@@ -43,7 +43,7 @@
         	"anglais": "green-blue",
         	"pinyin": "qīngchá",
         	"chinois": "青茶",
-			"couleur": "#2facb2"
+		"couleur": "#2facb2"
       }
     },
     
@@ -54,18 +54,18 @@
         	"anglais": "red",
         	"pinyin": "hóngchá",
         	"chinois": "红茶",
-			"couleur": "#cc0000"
+		"couleur": "#cc0000"
       }
     },
     
     {
       "properties": {
         	"id": "6",
-        	"francais": "noir",
-        	"anglais": "black",
+        	"francais": "sombre",
+        	"anglais": "dark",
         	"pinyin": "hēichá",
         	"chinois": "黑茶",
-			"couleur": "#562e19"
+		"couleur": "#562e19"
       }
     }
     
