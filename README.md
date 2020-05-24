@@ -1,5 +1,5 @@
 #  🇨🇳 🌱 Cháshù Dìtú 茶树地图
-# Cartographie des thés de Chine / Chinese Tea Map
+## Cartographie des thés de Chine / Chinese Tea Map
 
 🍵 Cháshù Dìtú est une cartographie libre et open source basée sur le travail de Katrin Rougeventre, spécifiquement la partie II de son livre, intitulée "Terroirs et grands crus de Chine". Elle regroupe une liste de référence, non exhaustive, des thés (Camellia Sinensis 茶树 Cháshù) de Chine mentionés par l'auteure, accessible sous forme de carte, mais aussi de fiches individuelles. Un module de recherche directe permet de trouver une référence spécifique. 
 
@@ -9,11 +9,13 @@
 
 ---
 
+## Fichiers
 > - *thes_chinois.geojson* : fichier de données de la carte .GEOJSON
 > - /references/ : dossier comprenant les fichiers .JSON des éléments de référence : couleurs_de_thes, regions, provinces, techniques (d'infusion)
 
 ---
 
-🔁 Map and datas are [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/) licensed
+## Mentions légales
+🔁 Map, List and datas are [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/) licensed
 
 ❎ Contents and Tea References are properties of Katrin Rougeventre and Michel de Maule Edition
