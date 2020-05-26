@@ -39,10 +39,10 @@
     {
       "properties": {
         	"id": "4",
-        	"francais": "bleu-vert",
-        	"anglais": "green-blue",
-        	"pinyin": "qīngchá",
-        	"chinois": "青茶",
+        	"francais": "oolong",
+        	"anglais": "oolong",
+        	"pinyin": "wūlóng chá",
+        	"chinois": "乌龙茶",
 		"couleur": "#2facb2"
       }
     },
